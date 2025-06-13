@@ -1,0 +1,7 @@
+# Core dependencies for PDF to Markdown Converter
+pymupdf4llm>=0.0.5
+pymupdf>=1.23.0
+pyinstaller>=5.0.0
+
+# Optional: for better looking executable icon
+pillow>=9.0.0
